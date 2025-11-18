@@ -75,7 +75,7 @@ button:hover {
     background-color:whitesmoke;}
 
 body {
-    background-image: url("Img/playa-con-muelle-de-madera.jpg");
+    background-image: url("img/playa-con-muelle-de-madera.jpg");
 background-size: cover;}
 
 .mb-0 {
@@ -84,4 +84,5 @@ background-size: cover;}
     color:white;
     background: rgb(58, 57, 57);
     padding: 10px;
+
 }
